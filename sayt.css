@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(8, 8, 8);
+}
+.obshi {
+    border: 1px solid rgb(8, 8, 8);
+    height: auto;
+    width: 1600px;
+    margin: auto;
+    background-color: rgb(8, 8, 8);
+}
+
+.chast1 {
+    color: white;
+}
+
+.rob {
+    margin-left: 850px;
+    margin-top: -420px;
+}
+
+.b1 {
+    background-color: #D3E97A;
+    width: 187px;
+    height: 54px;
+    border-radius: 50px;
+    transition: 0.5s transform ease;
+}
+.b1:hover {
+    transform: scale(1.1);
+}
+
+.b2 {
+    color: #D3E97A;
+    background-color: #222222;
+    height: 54px;
+    width: 54px;
+    border-radius: 50px;
+}
+
+.featured {
+    color: white;
+    font-size: 80px;
+    margin-left: 100px;
+}
+
+.here {
+    color: rgb(163, 163, 163);
+    margin-left: 100px;
+}
+
+.flex {
+    color: white;
+    display: flex;
+    gap: 1424px;
+}
+
+.hi {
+    font-size: 80px;
+}
+
+.Sudney {
+    color: rgb(163, 163, 163);
+}
+
+.b3 {
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 5px;
+    height: 40px;
+    width: 150px;
+}
+
+.con {
+    border: 1px solid #222222;
+    border-radius: 15px;
+    background-color: #222222;
+    width: 730px;
+    height: 710px;
+    margin-left: 100px;
+}
+
+.ob {
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+.work {
+    margin-top: 100px;
+    margin-left: 78px;
+}
+
+.prom {
+    color: white;
+    position: relative;
+    
+}
+
+.team {
+    color: rgb(163, 163, 163);
+}
+
+.info {
+    color: white;
+}
